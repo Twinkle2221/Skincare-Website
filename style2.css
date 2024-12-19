@@ -1,0 +1,77 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+head,body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    padding-bottom: 50px;
+    text-align: center;
+    color: rgb(150, 65, 89);
+    background-color: bisque;
+    padding-top: 50px;
+    font-weight:200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+}
+#name{
+    padding: 10px;
+    background-color: rgb(232, 193, 203);
+    border-style: groove;
+    box-shadow: 0ic;
+    margin-top: 20px;
+    margin-left: 8%;
+    
+    
+}
+#email{
+    padding: 10px;
+    background-color: rgb(232, 193, 203);
+    border-style: groove;
+    box-shadow: 0ic;
+    margin-top: 20px;
+    margin-left: 8%;
+    
+}
+#password{
+    padding: 10px;
+    background-color: rgb(232, 193, 203);
+    border-style: groove;
+    box-shadow: 0ic;
+    margin-top: 20px;
+    margin-left: 5.5%;
+    
+}
+.error{
+    color: red;
+}
+#btn{
+    margin-left:12.5%;
+    padding: 10px;
+    background-color: bisque;
+    font-size: medium;
+    font-weight: bold;
+    font-variant: small-caps;
+    margin-top: 20px;
+    
+}
+.form-container
+{
+    text-align: center;
+    align-items: center;
+
+}
+label
+{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    ;font-variant: small-caps;
+}
+body{
+    background-color: rgb(198, 147, 169) ;
+}
+
+
+
